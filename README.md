@@ -1,4 +1,8 @@
-# CICD-assignment Elisabeth Nguyen - 3/26/2025
+# CICD-assignment 
+Name: Elisabeth Nguyen 
+Due Date: 3/26/2025
+euid: ehn0018
+UNT email: elisabethnguyen@my.unt.edu
 
 This repository is a sample Python project designed to demonstrate the implementation of Continuous Integration and Continuous Delivery (CI/CD) pipelines. It is intended as an assignment for exploring automated testing, build processes, and deployment strategies.
 
